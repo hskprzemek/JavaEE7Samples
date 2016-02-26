@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaEE7EJBSamples/JavaEE7EJBSamples.iml" filepath="$PROJECT_DIR$/JavaEE7EJBSamples/JavaEE7EJBSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE7Samples.iml" filepath="$PROJECT_DIR$/JavaEE7Samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE7WebSamples/JavaEE7WebSamples.iml" filepath="$PROJECT_DIR$/JavaEE7WebSamples/JavaEE7WebSamples.iml" />
+    </modules>
+  </component>
+</project>
